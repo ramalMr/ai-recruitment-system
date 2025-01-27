@@ -1,0 +1,24 @@
+
+* text=auto
+
+*.py text
+*.md text
+*.txt text
+*.yml text
+*.yaml text
+*.json text
+*.config text
+*.env* text
+*.example text
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+*.sh text eol=lf
+*.bash text eol=lf
+
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.pdf binary
