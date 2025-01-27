@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 36d9ec9 (update README and configuration examples)
 __pycache__/
 *.py[cod]
 *.so
@@ -11,7 +15,6 @@ dist/
 .env
 .env.*
 !.env.example
-
 .idea/
 .vscode/
 *.swp
