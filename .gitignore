@@ -1,0 +1,24 @@
+cat > .gitignore << EOL
+
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+
+.env
+.env.*
+!.env.example
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db
+EOL
