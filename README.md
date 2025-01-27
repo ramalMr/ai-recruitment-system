@@ -266,10 +266,5 @@ set POPPLER_PATH="C:\Program Files\poppler\bin"
 
 2. AI Enhancements
    - Multiple AI model support
-   - Custom training capabilities
 
-3. UI/UX Improvements
-   - Dark mode
-   - Mobile responsiveness
-   - Real-time updates
 
